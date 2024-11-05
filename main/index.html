@@ -20,7 +20,7 @@
 </nav>
 
 <section id="main">
-    <h6>Learning platform</h6>
+    <div id="kruh">Learning platform</div>
     <h1>Grow now with <br>
         <span style="color: orangered">digital skills</span></h1>
     <p>We hapilly cut through the noise and teach designers and devs personally, taking <br>
@@ -31,7 +31,7 @@
         <a href="#">Join Bootcamps</a>
     </div>
     <h6>Trusted by 500,000 Designers in 150 countries</h6>
-        <img src="loga/nike%20logo.png" height="33" width="75" alt="nike logo">
+        <img src="loga/nike%20logo.png" height="33" width="75" alt="nike logo"/>
         <img src="loga/fedex.png" height="33" width="75" alt="fedex logo"/>
         <img src="loga/amazon.png" height="33" width="75" alt="amazon logo"/>
         <img src="loga/madvre.png" height="33" width="75" alt="MAPFRE logo"/>
@@ -41,43 +41,45 @@
         <img src="loga/porsche.png" height="33" width="75" alt="Porsche logo"/>
 </section>
 <section id="offer">
-    <h6>Most Popular</h6>
+    <div id="kruh2">Most Popular</div>
     <h2>Our featured <span style="color:orangered">courses</span></h2>
     <div>
-        <img src="#" alt="Latin man">
+        <img src="mans/latinman.png" height="100" width="100" alt="man 1"/>
         <article>
             <h5>Digital Marketing Strategy</h5>
             <h6>Intermediate 2hour 10min</h6>
+            <a href="#">Enroll now</a>
         </article>
-        <a href="#">Enroll now</a>
     </div>
-    <div>
-        <img src="#" alt="Caucsian man">
-        <article>
-            <h5>Digital Marketing Strategy</h5>
-            <h6>Intermediate 2hour 10min</h6>
-        </article>
 
-        <a href="#">Enroll now</a>
-    </div>
     <div>
-        <img src="#" alt="Caucsian man">
+        <img src="mans/2man.png" height="100" width="100" alt="man 2"/>
         <article>
             <h5>Digital Marketing Strategy</h5>
             <h6>Intermediate 2hour 10min</h6>
+            <a href="#">Enroll now</a>
         </article>
+    </div>
 
-        <a href="">Enroll now</a>
-    </div>
     <div>
-        <img src="#" alt="Indian man">
+        <img src="mans/man3.png" height="100" width="100" alt="man 3"/>
         <article>
             <h5>Digital Marketing Strategy</h5>
             <h6>Intermediate 2hour 10min</h6>
+            <a href="#">Enroll now</a>
         </article>
-        <a href="#">Enroll now</a>
+    </div>
+
+    <div>
+        <img src="mans/4man.png" height="100" width="100" alt="man 4"/>
+        <article>
+            <h5>Digital Marketing Strategy</h5>
+            <h6>Intermediate 2hour 10min</h6>
+            <a href="#">Enroll now</a>
+        </article>
     </div>
 </section>
+
 <section id="about">
     <h6>The Edukin Advantage</h6>
     <h2>About the
@@ -127,18 +129,46 @@
     #main > p {
         font-size: 9px;
     }
+    #main > #kruh {
+        font-size: 10px;
+        color: grey;
+        background: whitesmoke;
+        display: inline-flex;
+        justify-content: center;
+        width: 100px;
+        height: 20px;
+        border-radius: 25px;
+        align-items: center;
+    }
     #offer {
         text-align: center;
         background-color: whitesmoke;
+        background-size:cover;
+        padding: 60px;
+    }
+    #offer > div {
+        display: inline-block;
+    }
+    #offer > h6 {
+        font-size:8px;
+        color: grey;
+    }
+    #offer > #kruh2 {
+        font-size: 9px;
+        color: grey;
+        background: white;
+        display: inline-flex;
+        justify-content: center;
+        width: 80px;
+        height: 15px;
+        border-radius: 15px;
+        align-items: center;
     }
     #about {
         text-align: left;
     }
     #about > h2 {
         font-size: 30px;
-    }
-    #offer > div {
-        display: inline-block;
     }
     footer > ul {
         list-style-type: none;
