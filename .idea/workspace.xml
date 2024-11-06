@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+    <option name="SCOPE_TYPE" value="10" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e0888d97-b0ed-496f-93bd-6ca664c01908" name="Changes" comment="pokracovani v CSS">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="Edukin/main" />
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;swa666rrass&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/swa666rrass/Edukin&quot;,
+    &quot;accountId&quot;: &quot;ca8ec166-685f-4f5c-8b86-62cda9543a0f&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2oFRpTnCQBe7MNqS5V34woXbBhc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "bcf52365",
+    "last_opened_file_path": "/Users/martinkoudela/Desktop",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Desktop" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$USER_HOME$/Documents" />
+      <recent name="$USER_HOME$/Desktop/school/WPA" />
+      <recent name="$USER_HOME$/Documents/GitHub" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/main" />
+      <recent name="$PROJECT_DIR$/loga" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23339.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e0888d97-b0ed-496f-93bd-6ca664c01908" name="Changes" comment="" />
+      <created>1730463519725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730463519725</updated>
+      <workItem from="1730463521132" duration="5127000" />
+      <workItem from="1730475064567" duration="706000" />
+      <workItem from="1730660352664" duration="4266000" />
+      <workItem from="1730702020152" duration="22623000" />
+      <workItem from="1730757763272" duration="3098000" />
+      <workItem from="1730760896693" duration="412000" />
+      <workItem from="1730794058548" duration="2457000" />
+      <workItem from="1730798940907" duration="291000" />
+      <workItem from="1730799526245" duration="4000" />
+      <workItem from="1730799654337" duration="4887000" />
+      <workItem from="1730808516232" duration="1899000" />
+      <workItem from="1730812943845" duration="199000" />
+      <workItem from="1730813208537" duration="62000" />
+      <workItem from="1730813273118" duration="134000" />
+      <workItem from="1730813410488" duration="16000" />
+      <workItem from="1730813455298" duration="40000" />
+      <workItem from="1730813497909" duration="13000" />
+      <workItem from="1730813514427" duration="5000" />
+      <workItem from="1730813521755" duration="2000" />
+      <workItem from="1730813613096" duration="83000" />
+      <workItem from="1730813699487" duration="8000" />
+      <workItem from="1730813712244" duration="194000" />
+      <workItem from="1730815731272" duration="158000" />
+      <workItem from="1730816065572" duration="13455000" />
+      <workItem from="1730843124663" duration="7383000" />
+    </task>
+    <task id="LOCAL-00001" summary="nav, main, offer">
+      <option name="closed" value="true" />
+      <created>1730465768624</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730465768624</updated>
+    </task>
+    <task id="LOCAL-00002" summary="nav, main, offer">
+      <option name="closed" value="true" />
+      <created>1730469630469</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730469630469</updated>
+    </task>
+    <task id="LOCAL-00003" summary="offer section complete">
+      <option name="closed" value="true" />
+      <created>1730470220204</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730470220204</updated>
+    </task>
+    <task id="LOCAL-00004" summary="section id about, footer">
+      <option name="closed" value="true" />
+      <created>1730664535043</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730664535043</updated>
+    </task>
+    <task id="LOCAL-00005" summary="drobné html ůpravy a nástavba css&#10;+ přehlednější rozřazení tagů div, section atd...">
+      <option name="closed" value="true" />
+      <created>1730752024962</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1730752024962</updated>
+    </task>
+    <task id="LOCAL-00006" summary="drobne upravy">
+      <option name="closed" value="true" />
+      <created>1730761304179</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730761304179</updated>
+    </task>
+    <task id="LOCAL-00007" summary="loga a jejich uprava">
+      <option name="closed" value="true" />
+      <created>1730798911396</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730798911396</updated>
+    </task>
+    <task id="LOCAL-00008" summary="pridani dalsich fotek, vzhledova uprava - kruhy a dalsi drobne upravy">
+      <option name="closed" value="true" />
+      <created>1730807746907</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730807746907</updated>
+    </task>
+    <task id="LOCAL-00009" summary="pokracovani v CSS">
+      <option name="closed" value="true" />
+      <created>1730843026990</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730843026990</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="nav, main, offer" />
+    <MESSAGE value="offer section complete" />
+    <MESSAGE value="section id about, footer" />
+    <MESSAGE value="drobné html ůpravy a nástavba css&#10;+ přehlednější rozřazení tagů div, section atd..." />
+    <MESSAGE value="drobne upravy" />
+    <MESSAGE value="loga a jejich uprava" />
+    <MESSAGE value="pridani dalsich fotek, vzhledova uprava - kruhy a dalsi drobne upravy" />
+    <MESSAGE value="pokracovani v CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="pokracovani v CSS" />
+  </component>
+</project>
